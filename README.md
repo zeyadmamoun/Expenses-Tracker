@@ -1,16 +1,33 @@
-# personal_expanses
+<h1 align="center" id="title">Expens Tracker</h1>
 
-A new Flutter project.
+<p align="center"><img src="" alt="project-image"></p>
 
-## Getting Started
+<p id="description">UI App built with flutter as a kind of revision and having fun</p>
 
-This project is a starting point for a Flutter application.
+<h2>🚀 Demo</h2>
 
-A few resources to get you started if this is your first Flutter project:
+[https://github.com/zeyadmamoun/Expenses-Tracker.git](https://github.com/zeyadmamoun/Expenses-Tracker.git)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<h2>Project Screenshots:</h2>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="https://github.com/zeyadmamoun/Expenses-Tracker/blob/main/screenshots/Screenshot_2024-05-30-05-24-37-73_56c7a74d582a74499125a50c015211ce.jpg?raw=true" alt="project-screenshot" width="200" height="400/">
+
+<img src="https://github.com/zeyadmamoun/Expenses-Tracker/blob/main/screenshots/Screenshot_2024-05-30-05-24-45-21_56c7a74d582a74499125a50c015211ce.jpg?raw=true" alt="project-screenshot" width="200" height="400/">
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   charts
+*   bottom sheet
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   flutter
+*   material desgin
